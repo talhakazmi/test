@@ -6,7 +6,7 @@
 	<form method="POST">
 		<div>
 			<div>
-				<label>Target</label>
+				<label>Targe</label>
 				<input type="text" name="target">
 			</div>
 			<div>
